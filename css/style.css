@@ -1,0 +1,64 @@
+#decrement{
+    width:100px;
+    height:50px;
+}
+#increment{
+    width:100px;
+    height:50px;
+}
+#counter{
+    font-size:50px;
+}
+#traffic-lighter{
+    width:200px;
+    height:400px;
+    background-color:black;
+    position:relative;
+    margin-top: 30px;
+    border-radius:10px;
+}
+#red{
+    background-color: gray;
+    width:100px ;
+    height:100px;
+    border-radius: 50%;
+    position:absolute;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#yellow{
+    background-color: gray;
+    width:100px ;
+    height:100px;
+    border-radius: 50%;
+    position:absolute;
+    margin-top: 151px;
+    margin-left: 50px;
+}
+#green{
+    background-color: gray;
+    width:100px ;
+    height:100px;
+    border-radius: 50%;
+    position:absolute;
+    margin-top: 289px;
+    margin-left: 50px;
+}
+#stop{
+    color:gray;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+#wait{
+    color:gray;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+#go{
+    color:gray;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
